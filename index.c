@@ -1,4 +1,4 @@
-#include <stdio.h>
+ef#include <stdio.h>
 int calFun(int a, int b, char c);
 void main() {
    for(int i=1; i++; i>0)  
@@ -61,4 +61,5 @@ int calFun(int a, int b, char c){
 // you know that this is an wrond way .. 
 // try to use the concept of return 
 // i want to use do wile loop since the infint loop is running in abow program and there by..
+
 //  i also what to include the concept of pointers b4 i put this on github account..
